@@ -1,0 +1,1 @@
+This is just a project to practice html and git so I can prove my abbilities on those technologies.
